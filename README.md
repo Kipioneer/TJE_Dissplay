@@ -8,8 +8,7 @@
 - **데이터 시각화**: 결함 패턴과 인사이트 파악을 위한 시각화 진행
 
 ## 🛠 사용한 패키지 및 라이브러리
-
-디스플레이 프로젝트에서 사용된 주요 패키지 및 라이브러리
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
